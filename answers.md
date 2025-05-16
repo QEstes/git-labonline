@@ -7,3 +7,5 @@
  Your branch is ahead of 'origin/main' by 2 commits. -- (use "git push" to publish your local commits) -- nothing to commit, working tree clean
  commit 0b96109d7740fc47ac9186319f15c8dab46779eb (HEAD -> master) -- Author: root <root@thebluelagoon> -- Date:   Fri May 16 11:56:07 2025 -0400
  good
+ no because it wasnt pulled
+ 
