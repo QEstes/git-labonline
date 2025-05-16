@@ -9,4 +9,5 @@
  good
  no because it wasnt pulled
  error
- no
+ YUP
+ .  ..  .git  .gitignore  README.md
