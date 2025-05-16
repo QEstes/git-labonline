@@ -5,4 +5,5 @@
  the readme.md is now green
  all green
  Your branch is ahead of 'origin/main' by 2 commits. -- (use "git push" to publish your local commits) -- nothing to commit, working tree clean
- commit d2299809e1f2064eb70a9cfbfbed53d73fc758fd (HEAD -> main) -- Author: Quinn <qe917624@ohio.edu> -- Date:   Fri May 16 11:11:28 2025 -0400 -- initial
+ commit 0b96109d7740fc47ac9186319f15c8dab46779eb (HEAD -> master) -- Author: root <root@thebluelagoon> -- Date:   Fri May 16 11:56:07 2025 -0400
+ good
